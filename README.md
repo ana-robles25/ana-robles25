@@ -1,4 +1,10 @@
 - 👋 Hi, I’m @ana-robles25
+- Soy una ingenieria egresada de la carrera de Ingenieria en computación
+- Me pueden contactar a este correo: ana.roblesrueda@gmail.com
+- Me gusta mucho el area de UX/UI
+- Los lenguajes que soy mas habil es HTML, CSS, Python, Java, C++
+
+
 
 
 <!---
